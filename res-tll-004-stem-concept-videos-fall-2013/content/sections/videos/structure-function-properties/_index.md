@@ -1,0 +1,18 @@
+---
+course_id: res-tll-004-stem-concept-videos-fall-2013
+is_media_gallery: true
+layout: course_section
+menu:
+  leftnav:
+    identifier: 5c73ad5da6659efef8bae6338c5eee3b
+    name: Structure-Function Properties
+    parent: 53bcb5ef562b8c20bc219567e0269453
+    weight: 130
+parent_title: Videos
+title: Structure-Function Properties
+type: course
+uid: 5c73ad5da6659efef8bae6338c5eee3b
+
+---
+
+| ![res.tl.004_image11.jpg](/coursemedia/res-tll-004-stem-concept-videos-fall-2013/b9a34816bbc63c1b74a7a95a4b5c8f4e_res.tl.004_image11.jpg) |  {{< br >}}{{< br >}} The structure, function, and properties of a system are related and depend on the processes that define or create the system. {{< br >}}{{< br >}} _Image by Krista Shapton for Vecna Cares, and Chris French.  {{< br >}}_ {{< br >}}{{< br >}}{{< video-gallery-item href="/sections/videos/structure-function-properties/buffers" section="Structure-Function Properties" title="Buffers" description="Summary In this video, Legos® are used to create possible molecular level models of a buffer. This is done to better understand how a buffer works and the components a buffer must contain in order to be effective. Students evaluate these models against a set of criteria determined at the beginning of the video and then consider other parameters that must be taken into account when designing a buffer. Learning Objectives After watching this video students will be able to: Describe how the structure, or composition, of a buffer functions to resist changes in pH. Explain how the choices made in buffer design impact the properties of a buffer. Funding provided by the Singapore University of Technology and Design (SUTD) Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD MIT © 2012" thumbnail="https://img.youtube.com/vi/XR_0k8JIawY/default.jpg" >}} {{< video-gallery-item href="/sections/videos/structure-function-properties/chirality" section="Structure-Function Properties" title="Chirality" description="Summary In this video, students are introduced to the concept of chiral molecules and the relationship between molecular structure and function. Students first analyze some everyday objects and determine if they are chiral or achiral. Students then extend this idea to small molecules and proteins. Mirror image proteins are discussed, specifically antifreeze proteins. Learning Objectives After watching this video students will be able to: Identify chiral objects and molecules. Understand how chirality plays a role in the function of biological compounds. Funding provided by the Singapore University of Technology and Design (SUTD) Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD MIT © 2012" thumbnail="https://img.youtube.com/vi/IEPuLyxRmJc/default.jpg" >}} {{< video-gallery-item href="/sections/videos/structure-function-properties/polyelectrolyte-multilayers" section="Structure-Function Properties" title="Polyelectrolyte Multilayers" description="Summary In this video, students learn about layer-by-layer assembly of polyelectrolyte multilayer films. They see how the chemical structure of the macromolecules used in the films affects the function and properties of the film. Students learn how these films have been used to regenerate bone tissue components in rats. Learning Objectives After watching this video students will be able to explain how the concepts of pH and pKa are useful in the design of materials via layer-by-layer assembly. Funding provided by the Singapore University of Technology and Design (SUTD) Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD MIT © 2012" thumbnail="https://img.youtube.com/vi/Of68ZXH35o0/default.jpg" >}}
